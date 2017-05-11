@@ -140,6 +140,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 n2 = 0.0;
                 result = 0.0;
                 opt = " ";
+                flg = 0;
                 break;
             }
             case R.id.button_del:{

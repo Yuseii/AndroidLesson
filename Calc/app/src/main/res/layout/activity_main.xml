@@ -157,8 +157,6 @@
 
         />
 
-
-
     <Button
         android:id="@+id/button_del"
         style="@style/Button_other"
@@ -174,8 +172,5 @@
         android:layout_below="@+id/button_add"
         android:text="="
         />
-
-
-
 
 </RelativeLayout>
